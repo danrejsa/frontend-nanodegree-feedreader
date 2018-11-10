@@ -6,7 +6,7 @@ Testing is an important part of the development process and many organizations p
 # How to run the project.
 
 Open index.html in the browser of your choice. It may take some time to completely load as additional network requests are made. Once loaded, test results should be displayed at the bottom of the page.
-* Click [here]() to view.
+* Click [here](https://danrejsa.github.io/frontend-nanodegree-feedreader/) to view.
 
 
 
